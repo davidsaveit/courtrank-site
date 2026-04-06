@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "Q6PZTFF6Z7.com.davidshen.courtrank",
+        "paths": ["/player/*"]
+      }
+    ]
+  }
+}
